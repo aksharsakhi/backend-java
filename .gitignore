@@ -1,0 +1,15 @@
+# Build outputs
+/target/
+
+# Runtime and local data
+/uploads/
+/data/
+*.log
+
+# Environment files
+.env
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
